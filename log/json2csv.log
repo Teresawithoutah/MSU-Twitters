@@ -1,0 +1,16 @@
+I, [2016-08-01T18:22:13.901206 #16466]     INFO : Started at 2016-08-01 18:22:13 -0400
+I, [2016-08-01T18:22:13.901298 #16466]     INFO : Starting JSON to CSV conversion.
+I, [2016-08-01T18:22:14.016821 #16466]     INFO : Finished JSON to CSV conversion. Conversion required 0.114321 seconds.
+I, [2016-08-01T18:22:14.016912 #16466]     INFO : Finished at 2016-08-01 18:22:14 -0400
+I, [2016-08-01T18:23:18.506740 #16469]     INFO : Started at 2016-08-01 18:23:18 -0400
+I, [2016-08-01T18:23:18.506833 #16469]     INFO : Starting JSON to CSV conversion.
+I, [2016-08-01T18:23:18.507256 #16469]     INFO : Finished JSON to CSV conversion. Conversion required 0.000367 seconds.
+I, [2016-08-01T18:23:18.507304 #16469]     INFO : Finished at 2016-08-01 18:23:18 -0400
+I, [2016-08-01T18:25:31.252305 #16487]     INFO : Started at 2016-08-01 18:25:31 -0400
+I, [2016-08-01T18:25:31.252418 #16487]     INFO : Starting JSON to CSV conversion.
+I, [2016-08-01T18:25:31.252778 #16487]     INFO : Finished JSON to CSV conversion. Conversion required 0.000312 seconds.
+I, [2016-08-01T18:25:31.252821 #16487]     INFO : Finished at 2016-08-01 18:25:31 -0400
+I, [2016-08-03T02:02:44.459788 #736]     INFO : Started at 2016-08-03 02:02:44 -0400
+I, [2016-08-03T02:02:44.459925 #736]     INFO : Starting JSON to CSV conversion.
+I, [2016-08-03T02:02:44.467492 #736]     INFO : Finished JSON to CSV conversion. Conversion required 0.007457 seconds.
+I, [2016-08-03T02:02:44.467582 #736]     INFO : Finished at 2016-08-03 02:02:44 -0400
